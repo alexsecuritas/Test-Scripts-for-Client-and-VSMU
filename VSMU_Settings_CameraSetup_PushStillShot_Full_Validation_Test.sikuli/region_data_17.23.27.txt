@@ -1,0 +1,9 @@
+Captured Region Data:
+Address: 10.1.11.11
+Data Port: 8000
+RTSP Port: 554
+Timeout: 5
+Username: admin
+Password: admin
+MainStreamURL: rtsp://10.1.11.11/Streaming/Channels/101?transportmode=unicast&profile=Profile_1
+SubstreamURL: rtsp://10.1.11.11/Streaming/Channels/102?transportmode=unicast&profile=Profile_2

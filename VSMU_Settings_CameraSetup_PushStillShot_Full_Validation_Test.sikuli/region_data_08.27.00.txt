@@ -1,0 +1,5 @@
+Captured Region Data:
+path_regionData: administrator
+username_regionData: administrator
+ftp_timeout_regionData: administrator
+update_frequency_regionData: administrator

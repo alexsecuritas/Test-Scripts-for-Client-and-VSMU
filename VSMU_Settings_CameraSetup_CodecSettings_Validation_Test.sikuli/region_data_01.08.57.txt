@@ -1,0 +1,6 @@
+Captured Region Data:
+Description: 1
+Stream URL: rtsp://10.1.11.11:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1
+GOP: 20
+Target Bitrate: 2048
+Quality: 0

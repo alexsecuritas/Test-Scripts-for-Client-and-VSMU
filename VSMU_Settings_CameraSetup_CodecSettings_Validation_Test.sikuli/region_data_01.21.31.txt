@@ -1,0 +1,5 @@
+Captured Region Data:
+Description: 1
+GOP: 1
+Target Bitrate: 2048
+Quality: 1

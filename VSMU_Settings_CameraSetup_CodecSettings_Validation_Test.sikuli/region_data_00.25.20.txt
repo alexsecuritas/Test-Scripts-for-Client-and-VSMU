@@ -1,0 +1,6 @@
+Captured Region Data:
+Description: VideoEncoder_1
+Stream URL: VideoEncoder_1
+GOP: VideoEncoder_1
+Target Bitrate: 2048
+Quality: 5

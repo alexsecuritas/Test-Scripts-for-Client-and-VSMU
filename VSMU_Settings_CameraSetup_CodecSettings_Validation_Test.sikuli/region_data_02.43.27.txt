@@ -1,0 +1,5 @@
+Captured Region Data:
+Min Exposure Time: "1746437601563.png"
+Max Exposure Time: "1746437601563.png"
+Min Gain: "1746437601563.png"
+Max Gain: "1746437601563.png"

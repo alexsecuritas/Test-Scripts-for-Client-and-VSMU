@@ -1,0 +1,5 @@
+Captured Region Data:
+Min Exposure Time: 0
+Max Exposure Time: 0
+Min Gain: 0
+Max Gain: 0
